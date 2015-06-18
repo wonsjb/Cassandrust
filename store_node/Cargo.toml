@@ -1,0 +1,4 @@
+[package]
+name = "store_node"
+version = "0.1.0"
+authors = ["Jean-Baptiste Wons <wonsjb@gmail.com>"]
